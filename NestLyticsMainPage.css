@@ -1,0 +1,1441 @@
+.desktop-1 {
+    width: 1440px;
+    height: 4891px;
+    overflow: hidden;
+    background: #130D1D;
+    .header {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 1440px;
+        height: 100px;
+        .rectangle-13 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 1440px;
+            height: 100px;
+            background: #130D1D;
+        }
+        .group-4 {
+            position: absolute;
+            top: 31px;
+            left: 401px;
+            width: 630px;
+            height: 50px;
+            .rectangle-7 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 630px;
+                height: 50px;
+                box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(136.67px);
+                border-radius: 50px;
+                background: rgba(217, 217, 217, 0.1);
+            }
+            .group-3 {
+                position: absolute;
+                top: calc(100% - 50px + 15px);
+                left: 40px;
+                width: 550px;
+                height: 20px;
+                .features {
+                    position: absolute;
+                    top: calc(100% - 20px + 0px);
+                    left: 0px;
+                    width: 79px;
+                    height: 20px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: "Josefin Sans";
+                    font-size: 20px;
+                    line-height: 20px;
+                    font-weight: 400;
+                    text-align: justify;
+                }
+                .network {
+                    position: absolute;
+                    top: calc(100% - 20px + 0px);
+                    left: 147px;
+                    width: 77px;
+                    height: 20px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: "Josefin Sans";
+                    font-size: 20px;
+                    line-height: 20px;
+                    font-weight: 400;
+                    text-align: justify;
+                }
+                .universities {
+                    position: absolute;
+                    top: calc(100% - 20px + 0px);
+                    left: 293px;
+                    width: 103px;
+                    height: 20px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: "Josefin Sans";
+                    font-size: 20px;
+                    line-height: 20px;
+                    font-weight: 400;
+                    text-align: justify;
+                }
+                .about-us {
+                    position: absolute;
+                    top: calc(100% - 20px + 0px);
+                    left: 466px;
+                    width: 84px;
+                    height: 20px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: "Josefin Sans";
+                    font-size: 20px;
+                    line-height: 20px;
+                    font-weight: 400;
+                    text-align: justify;
+                }
+            }
+        }
+        .group-5 {
+            position: absolute;
+            top: 31px;
+            left: calc(100% - 1440px + 1138px);
+            width: 240px;
+            height: 50px;
+            .rectangle-6 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 252px + 0px);
+                width: 252px;
+                height: 50px;
+                border-radius: 126px;
+                background: linear-gradient(285deg, rgba(255, 111, 216, 1) 0%, rgba(160, 68, 255, 1) 48%, rgba(0, 240, 255, 1) 100%);
+            }
+            .join-community {
+                position: absolute;
+                top: calc(100% - 50px + 13px);
+                left: calc(100% - 252px + 40px);
+                width: 165px;
+                height: 24px;
+                color: #FFFFFF;
+                font-family: var(--token-fontfamily-josefin-sans);
+                font-style: var(--token-fontstyle-regular);
+                font-size: var(--token-fontsize-24);
+                line-height: 24px;
+                font-weight: 400;
+            }
+        }
+    }
+    .hero-section {
+        position: absolute;
+        top: 111px;
+        left: 0px;
+        width: 1440px;
+        height: 596px;
+        .image-1 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 1440px;
+            height: 596px;
+            background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.6) 51%, rgba(0, 0, 0, 0.9) 100%), url(https://image-resource.creatie.ai/153324336188988/153324336188992/77f80668e57879744262bbb49c35fbbc.png);
+            object-fit: cover;
+            background-repeat: no-repeat;
+            background-size: 1440.16px 956px;
+            background-position: -0.08px -232px;
+        }
+        .group-6 {
+            position: absolute;
+            top: 357px;
+            left: calc(100% - 1440px + 30px);
+            width: 240px;
+            height: 50px;
+            margin-left: 60px;
+            .rectangle-8 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 284px + 0px);
+                width: 284px;
+                height: 50px;
+                border-radius: 126px;
+                background: linear-gradient(285deg, rgba(255, 111, 216, 1) 0%, rgba(160, 68, 255, 1) 48%, rgba(0, 240, 255, 1) 100%);
+            }
+            .become-a-member {
+                position: absolute;
+                top: calc(100% - 50px + 13px);
+                left: calc(100% - 284px + 40px);
+                width: 204px;
+                height: 24px;
+                color: #FFFFFF;
+                font-family: var(--token-fontfamily-josefin-sans);
+                font-style: var(--token-fontstyle-regular);
+                font-size: var(--token-fontsize-24);
+                line-height: 24px;
+                font-weight: 400;
+            }
+        }
+        .component-1 {
+            position: absolute;
+            top: calc(100% - 596px + 237px);
+            left: 30px;
+            width: 835px;
+            height: 80px;
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            align-items: start;
+            column-gap: 14px;
+            row-gap: 0px;
+            .united-by {
+                flex-shrink: 0;
+                width: 376px;
+                height: 80px;
+                white-space: nowrap;
+                color: #FFFFFF;
+                font-family: "Josefin Sans";
+                font-size: 80px;
+                line-height: 80px;
+                font-weight: 700;
+                text-align: justify;
+            }
+            /* .frame-2 {
+                flex-shrink: 0;
+                width: 445px;
+                height: 72px;
+                overflow: hidden;
+                .curiosity-ideators-founders-initiators {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 351px;
+                    height: 320px;
+                    background: linear-gradient(285deg, rgba(255, 111, 216, 1) 0%, rgba(160, 68, 255, 1) 48%, rgba(0, 240, 255, 1) 100%);
+                    -webkit-background-clip: text;
+                    white-space: nowrap;
+                    color: transparent;
+                    font-family: "Josefin Sans";
+                    font-size: 80px;
+                    line-height: 80px;
+                    font-weight: 700;
+                    text-align: justify;
+                }
+            } */
+        }
+    }
+    .growing-communities-citywise {
+        position: absolute;
+        top: 1670px;
+        left: calc(100% - 1440px + 355px);
+        width: 730px;
+        height: 50px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 50px;
+        line-height: 50px;
+        font-weight: 700;
+        text-align: justify;
+        >div {
+            width: 100%;
+        }
+        >div span:nth-child(2) {
+            color: transparent;
+        }
+    }
+    .your-place-in-our-ecosystem {
+        position: absolute;
+        top: 762px;
+        left: calc(100% - 1440px + 376px);
+        width: 692px;
+        height: 50px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 50px;
+        line-height: 50px;
+        font-weight: 700;
+        text-align: justify;
+        >div {
+            width: 100%;
+        }
+        >div span:nth-child(3) {
+            color: transparent;
+        }
+    }
+    .discover-the-unique-elements-that-make-nestlytics-a-place-where-your-ideas-can-thrive-and-your-skills-can-grow {
+        position: absolute;
+        top: 822px;
+        left: calc(100% - 1440px + 353px);
+        width: 733px;
+        height: 48px;
+        color: #FFFFFF;
+        font-family: var(--token-fontfamily-poppins);
+        font-style: var(--token-fontstyle-regular-1);
+        font-size: var(--token-fontsize-20);
+        line-height: 30px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .card-1 {
+        position: absolute;
+        top: 925px;
+        left: 44px;
+        width: 430px;
+        height: 285px;
+        .rectangle-5 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .platform-to-build-their-ideas {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 52px);
+            width: 326px;
+            height: 25px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .group-7 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            .freepik-the-style-is-candid-image-photography-with-natural-37612-1 {
+                position: absolute;
+                top: 0px;
+                left: calc(100% - 370px + 0px);
+                width: 370px;
+                height: 185px;
+                border-radius: 10px;
+                object-fit: cover;
+            }
+        }
+    }
+    .card-4 {
+        position: absolute;
+        top: 1260px;
+        left: 45px;
+        width: 430px;
+        height: 285px;
+        .rectangle-9 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .networking-meetups {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 97px);
+            width: 236px;
+            height: 25px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-37615-1 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+    }
+    .card-2 {
+        position: absolute;
+        top: 925px;
+        left: 504px;
+        width: 430px;
+        height: 285px;
+        .rectangle-10 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .platform-to-help-others-aspirants {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 26px);
+            width: 378px;
+            height: 25px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-37613-1 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+    }
+    .card-5 {
+        position: absolute;
+        top: 1260px;
+        left: 505px;
+        width: 430px;
+        height: 285px;
+        .rectangle-11 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .online-workshops {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 113px);
+            width: 204px;
+            height: 25px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-37616-1 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+    }
+    .card-3 {
+        position: absolute;
+        top: 925px;
+        left: 964px;
+        width: 430px;
+        height: 285px;
+        .rectangle-12 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .try-new-technologies-with-others {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 29px);
+            width: 372px;
+            height: 50px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-37614-1 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+    }
+    .card-6 {
+        position: absolute;
+        top: 1260px;
+        left: 965px;
+        width: 430px;
+        height: 285px;
+        .rectangle-14 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 285px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .potential-talents {
+            position: absolute;
+            top: 235px;
+            left: calc(100% - 430px + 120px);
+            width: 191px;
+            height: 25px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-46751-1 {
+            position: absolute;
+            top: 30px;
+            left: calc(100% - 430px + 30px);
+            width: 370px;
+            height: 185px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+    }
+    .group-8 {
+        position: absolute;
+        top: 1770px;
+        left: 44px;
+        width: 430px;
+        height: 459px;
+        .rectangle-15 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 457px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-46751-3 {
+            position: absolute;
+            top: 35px;
+            left: calc(100% - 430px + 39.88px);
+            width: 350.25px;
+            height: 330px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+        .varanasi {
+            position: absolute;
+            top: 395px;
+            left: calc(100% - 430px + 150px);
+            width: 130px;
+            height: 64px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 32px;
+            line-height: 32px;
+            font-weight: 500;
+            text-align: justify;
+        }
+    }
+    .group-9 {
+        position: absolute;
+        top: 1770px;
+        left: 505px;
+        width: 430px;
+        height: 457px;
+        .rectangle-16 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 457px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-46751-2 {
+            position: absolute;
+            top: 35px;
+            left: calc(100% - 430px + 40px);
+            width: 350px;
+            height: 330px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+        .chandigarh {
+            position: absolute;
+            top: 395px;
+            left: calc(100% - 430px + 126px);
+            width: 178px;
+            height: 32px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 32px;
+            line-height: 32px;
+            font-weight: 500;
+            text-align: justify;
+        }
+    }
+    .group-11 {
+        position: absolute;
+        top: 2278px;
+        left: 505px;
+        width: 430px;
+        height: 367px;
+        .rectangle-17 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 367px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .add-your-city {
+            position: absolute;
+            top: 306px;
+            left: calc(100% - 430px + 108px);
+            width: 213px;
+            height: 32px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 32px;
+            line-height: 32px;
+            font-weight: 500;
+            text-align: justify;
+        }
+        .group-17 {
+            position: absolute;
+            top: 50px;
+            left: 114px;
+            width: 201px;
+            height: 201px;
+        }
+    }
+    .group-10 {
+        position: absolute;
+        top: 1770px;
+        left: 966px;
+        width: 430px;
+        height: 457px;
+        .rectangle-18 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 430px;
+            height: 457px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 25px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .freepik-the-style-is-candid-image-photography-with-natural-46751-4 {
+            position: absolute;
+            top: 35px;
+            left: calc(100% - 430px + 40px);
+            width: 350px;
+            height: 330px;
+            border-radius: 10px;
+            background: url(https://image-resource.creatie.ai/153324336188988/153324336188992/b32adf551a52b89c319726aed995c29b.jpg);
+            object-fit: cover;
+            background-repeat: no-repeat;
+            background-size: 350px 528.3px;
+            background-position: 0.71px -18.61px;
+        }
+        .agra {
+            position: absolute;
+            top: 395px;
+            left: calc(100% - 430px + 178px);
+            width: 74px;
+            height: 32px;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 32px;
+            line-height: 32px;
+            font-weight: 500;
+            text-align: justify;
+        }
+    }
+    .group-12 {
+        position: absolute;
+        top: 2697px;
+        left: calc(100% - 1440px + 578px);
+        width: 284px;
+        height: 50px;
+        .rectangle-19 {
+            position: absolute;
+            top: 0px;
+            left: calc(100% - 284px + 0px);
+            width: 284px;
+            height: 50px;
+            border-radius: 126px;
+            background: linear-gradient(285deg, rgba(255, 111, 216, 1) 0%, rgba(160, 68, 255, 1) 48%, rgba(0, 240, 255, 1) 100%);
+        }
+        .become-a-member-1 {
+            position: absolute;
+            top: calc(100% - 50px + 13px);
+            left: calc(100% - 284px + 40px);
+            width: 204px;
+            height: 24px;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-josefin-sans);
+            font-style: var(--token-fontstyle-regular);
+            font-size: var(--token-fontsize-24);
+            line-height: 24px;
+            font-weight: 400;
+        }
+    }
+    .group-14 {
+        position: absolute;
+        top: 2817px;
+        left: 198px;
+        width: 1044px;
+        height: 474px;
+        .a-comfort-space-for-students-that-nestlytics-provides-to-build-skills-network-and-grow-in-data {
+            position: absolute;
+            top: 60px;
+            left: calc(100% - 1044px + 109.19px);
+            width: 824.63px;
+            height: 54px;
+            color: #FFFFFF;
+            font-family: var(--token-fontfamily-poppins);
+            font-style: var(--token-fontstyle-regular-1);
+            font-size: var(--token-fontsize-20);
+            line-height: 30px;
+            font-weight: 400;
+            text-align: center;
+        }
+        .academic-excellence-partners {
+            position: absolute;
+            top: 0px;
+            left: calc(100% - 1044px + 165px);
+            width: 714px;
+            height: 50px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Josefin Sans";
+            font-size: 50px;
+            line-height: 50px;
+            font-weight: 700;
+            text-align: justify;
+            >div {
+                width: 100%;
+            }
+        }
+        .group-13 {
+            position: absolute;
+            top: 154px;
+            left: 0px;
+            width: 350px;
+            height: 250px;
+            .rectangle-20 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                margin-left: -105px;
+                width: 365px;
+                height: 290px;
+                box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(136.67px);
+                border-radius: 25px;
+                background: rgba(217, 217, 217, 0.1);
+            }
+            .freepik-the-style-is-candid-image-photography-with-natural-37616-2 {
+                position: absolute;
+                top: 30px;
+                left: calc(100% - 497px + 38.58px);
+                margin-left: 18px;
+                width: 335px;
+                height: 210px;
+                border-radius: 10px;
+                background: url(https://image-resource.creatie.ai/153324336188988/153324336188992/bcb8dd87e5423f99e9916a54b1fb8065.png);
+                object-fit: cover;
+                background-repeat: no-repeat;
+                background-size: 419.84px 209.94px;
+                background-position: 1px 0.29px;
+            }
+            .chandigarh-university {
+                position: absolute;
+                top: 264px;
+                left: calc(100% - 497px + 39px);
+                margin-left: 19px;
+                margin-top: -12px;
+                width: 331px;
+                height: 32px;
+                color: #FFFFFF;
+                font-family: "Josefin Sans";
+                font-size: 26px;
+                line-height: 32px;
+                font-weight: 500;
+                text-align: justify;
+            }
+        }
+            .group-M{
+                position: absolute;
+            top: 154px;
+            left: 0px;
+            width: 350px;
+            height: 250px;
+            .rectangle-M{
+                 position: absolute;
+                top: 0px;
+                left: 0px;
+                margin-left: 330px;
+                width: 365px;
+                height: 290px;
+                box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(136.67px);
+                border-radius: 25px;
+                background: rgba(217, 217, 217, 0.1);
+
+            }
+             .Institute-of-Engineering-and-Technology {
+                position: absolute;
+                top: 30px;
+                left: calc(100% - 497px + 38.58px);
+                margin-left: 450px;
+                width: 335px;
+                height: 210px;
+                border-radius: 10px;
+                background: url(iet.jpeg);
+                object-fit: cover;
+                background-repeat: no-repeat;
+                background-size: 419.84px 209.94px;
+                background-position: 1px 0.29px;
+            }
+            .DBRAU{
+                position: absolute;
+                top: 264px;
+                left: calc(100% - 497px + 39px);
+                margin-left: 470px;
+                margin-top: -12px;
+                width: 331px;
+                height: 32px;
+                color: #FFFFFF;
+                font-family: "Josefin Sans";
+                font-size: 26px;
+                line-height: 32px;
+                font-weight: 500;
+                text-align: justify;
+            }
+
+        }
+        .group-15 {
+            position: absolute;
+            top: 154px;
+            left: 547px;
+            width: 350px;
+            height: 250px;
+            .rectangle-21 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                margin-right: 1000px;
+                width: 365px;
+                height: 290px;
+                box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(136.67px);
+                border-radius: 25px;
+                background: rgba(217, 217, 217, 0.1);
+            }
+            .add-your-university {
+                position: absolute;
+                top: 264px;
+                left: calc(100% - 497px + 102px);
+                width: 294px;
+                height: 32px;
+                margin-left: 350px;
+                margin-top:-17px ;
+                color: #FFFFFF;
+                font-family: "Josefin Sans";
+                font-size: 26px;
+                line-height: 32px;
+                font-weight: 500;
+                text-align: justify;
+            }
+            .group-16 {
+                position: absolute;
+                top: 30px;
+                left: 148px;
+                width: 201px;
+                height: 201px;
+            }
+        }
+    }
+    .rectangle-22 {
+        position: absolute;
+        top: 3403px;
+        left: 0px;
+        width: 1440px;
+        height: 915px;
+        box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(136.67px);
+        border-radius: 25px 25px 0px 0px;
+        background: rgba(217, 217, 217, 0.1);
+    }
+    .join-our-leadership-team {
+        position: absolute;
+        top: 3481px;
+        left: calc(100% - 1440px + 406px);
+        width: 632px;
+        height: 50px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 50px;
+        line-height: 50px;
+        font-weight: 700;
+        text-align: justify;
+        >div {
+            width: 100%;
+        }
+    }
+    .share-your-expertise-mentor-others-and-help-shape-the-future-of-our-tech-community {
+        position: absolute;
+        top: 3553px;
+        left: calc(100% - 1440px + 307.19px);
+        width: 824.63px;
+        height: 54px;
+        color: #FFFFFF;
+        font-family: var(--token-fontfamily-poppins);
+        font-style: var(--token-fontstyle-regular-1);
+        font-size: var(--token-fontsize-20);
+        line-height: 30px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .group-19 {
+        position: absolute;
+        top: 3674px;
+        left: 143px;
+        width: 1154px;
+        height: 558px;
+        .rectangle-23 {
+            position: absolute;
+            top: calc(100% - 558px + 0px);
+            left: calc(100% - 1154px + 0px);
+            width: 1154px;
+            height: 558px;
+            opacity: 0.7900000214576721;
+            background: rgba(255, 255, 255, 0.89);
+        }
+        .group-18 {
+            position: absolute;
+            top: 70px;
+            left: 69px;
+            width: 487px;
+            height: 432px;
+            .make-an-impact {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 239px;
+                height: 32px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Josefin Sans";
+                font-size: 32px;
+                line-height: 32px;
+                font-weight: 500;
+                text-align: justify;
+            }
+            .mentor-emerging-data-scientists-and-ai-enthusiasts {
+                position: absolute;
+                top: 58px;
+                left: 39px;
+                width: 395px;
+                height: 44px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Josefin Sans";
+                font-size: 22px;
+                line-height: 22px;
+                font-weight: 400;
+                text-align: justify;
+            }
+            .lead-workshops-and-training-sessions-in-your-area-of-expertise {
+                position: absolute;
+                top: 144px;
+                left: 39px;
+                width: 448px;
+                height: 44px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Josefin Sans";
+                font-size: 22px;
+                line-height: 22px;
+                font-weight: 400;
+                text-align: justify;
+            }
+            .help-organize-community-events-and-networking-opportunities {
+                position: absolute;
+                top: 230px;
+                left: 39px;
+                width: 369px;
+                height: 44px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Josefin Sans";
+                font-size: 22px;
+                line-height: 22px;
+                font-weight: 400;
+                text-align: justify;
+            }
+            .contribute-to-open-source-projects-and-collaborative-research {
+                position: absolute;
+                top: 316px;
+                left: 39px;
+                width: 387px;
+                height: 44px;
+                white-space: nowrap;
+                color: #000000;
+                font-family: "Josefin Sans";
+                font-size: 22px;
+                line-height: 22px;
+                font-weight: 400;
+                text-align: justify;
+            }
+            .group-20 {
+                position: absolute;
+                top: 390px;
+                margin-left: 60px;
+                width: 198px;
+                height: 42px;
+                .rectangle-24 {
+                    position: absolute;
+                    margin-top: 13px;
+                    top: 0px;
+                    left: calc(100% - 198px + 0px);
+                    width: 198px;
+                    height: 42px;
+                    border-radius: 126px;
+                    background: linear-gradient(285deg, rgba(255, 111, 216, 1) 0%, rgba(160, 68, 255, 1) 48%, rgba(0, 240, 255, 1) 100%);
+                }
+                .become-a-volunteer {
+                    position: absolute;
+                    top: 23px;
+                    left: 25px;
+                    width: 166px;
+                    height: 18px;
+                    white-space: nowrap;
+                    color: #FFFFFF;
+                    font-family: "Josefin Sans";
+                    font-size: 18px;
+                    line-height: 18px;
+                    font-weight: 500;
+                    text-align: justify;
+                }
+            }
+           
+        }
+    }
+    .group-21 {
+        position: absolute;
+        top: 3738px;
+        left: 803px;
+        width: 439px;
+        height: 430px;
+    }
+    .rectangle-78 {
+        position: absolute;
+        top: 4318px;
+        left: 0px;
+        width: 1440px;
+        height: 573px;
+        background: #141415;
+    }
+    .privacy-policy {
+        position: absolute;
+        top: 4432px;
+        left: 652px;
+        width: 136px;
+        height: 30px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        text-decoration: underline;
+        font-family: "Poppins";
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .terms--condition {
+        position: absolute;
+        top: 4482px;
+        left: 652px;
+        width: 185px;
+        height: 30px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        text-decoration: underline;
+        font-family: "Poppins";
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .contact-us-at--infonestlyticsgmailcom {
+        position: absolute;
+        top: 4532px;
+        left: 652px;
+        width: 264px;
+        height: 60px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        text-decoration: underline;
+        font-family: "Poppins";
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 400;
+        >div {
+            width: 100%;
+        }
+    }
+    .about-nl {
+        position: absolute;
+        top: 4362px;
+        left: calc(100% - 1440px + 652px);
+        width: 136px;
+        height: 30px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .connect-on {
+        position: absolute;
+        top: 4362px;
+        left: calc(100% - 1440px + 1209px);
+        width: 163px;
+        height: 30px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .nestlytics-logo-final-removebg-preview-1 {
+        position: absolute;
+        top: -25px;
+        left: 20px;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+    .nestlytics-logo-final-removebg-preview-2 {
+        position: absolute;
+        top: 4303px;
+        left: 10px;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+    .nestanlystic-is-a-growing-community-passionate-about-data-and-ai-dedicated-to-exploring-innovations-connecting-minds-and-creating-meaningful-impact-together {
+        position: absolute;
+        top: 4440px;
+        left: 44px;
+        width: 372px;
+        height: 72px;
+        color: #FFFFFF;
+        font-family: "Josefin Sans";
+        font-size: 16px;
+        line-height: 16px;
+        font-weight: 400;
+    }
+    .group-22 {
+        position: absolute;
+        top: 4412px;
+        left: 1209px;
+        width: 163px;
+        height: 40px;
+        .rectangle-25 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 163px;
+            height: 40px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 10px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .social-icons {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            width: 20px;
+            height: 20px;
+        }
+        .text--linkedin {
+            position: absolute;
+            top: 5px;
+            left: 50px;
+            width: 92px;
+            height: 30px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Poppins";
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 400;
+        }
+    }
+    .group-23 {
+        position: absolute;
+        top: 4472px;
+        left: 1209px;
+        width: 163px;
+        height: 40px;
+        .rectangle-26 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 163px;
+            height: 40px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 10px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .social-icons-1 {
+            position: absolute;
+            top: 10px;
+            left: 23px;
+            width: 20px;
+            height: 20px;
+        }
+        .text--discord {
+            position: absolute;
+            top: 5px;
+            left: 53px;
+            width: 87px;
+            height: 30px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Poppins";
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 400;
+        }
+    }
+    .group-24 {
+        position: absolute;
+        top: 4532px;
+        left: 1209px;
+        width: 163px;
+        height: 40px;
+        .rectangle-27 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 163px;
+            height: 40px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 10px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .social-icons-2 {
+            position: absolute;
+            top: 10px;
+            left: 9px;
+            width: 20px;
+            height: 20px;
+        }
+        .text--instagram {
+            position: absolute;
+            top: 5px;
+            left: 39px;
+            width: 116px;
+            height: 30px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Poppins";
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 400;
+        }
+    }
+    .group-25 {
+        position: absolute;
+        top: 4592px;
+        left: 1209px;
+        width: 163px;
+        height: 40px;
+        .rectangle-28 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 163px;
+            height: 40px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 10px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .social-icons-3 {
+            position: absolute;
+            top: 10px;
+            left: 19px;
+            width: 20px;
+            height: 20px;
+        }
+        .text--youtube {
+            position: absolute;
+            top: 5px;
+            left: 49px;
+            width: 95px;
+            height: 30px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Poppins";
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 400;
+        }
+    }
+    .group-26 {
+        position: absolute;
+        top: 4652px;
+        left: 1209px;
+        width: 163px;
+        height: 40px;
+        .rectangle-29 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 163px;
+            height: 40px;
+            box-shadow: inset 68.33px -68.33px 68.33px 0px rgba(165, 165, 165, 0.1), inset -68.33px 68.33px 68.33px 0px rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(136.67px);
+            border-radius: 10px;
+            background: rgba(217, 217, 217, 0.1);
+        }
+        .social-icons-4 {
+            position: absolute;
+            top: 10px;
+            left: 12px;
+            width: 20px;
+            height: 20px;
+        }
+        .text--xtwitter {
+            position: absolute;
+            top: 5px;
+            left: 42px;
+            width: 109px;
+            height: 30px;
+            white-space: nowrap;
+            color: #FFFFFF;
+            font-family: "Poppins";
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 400;
+        }
+    }
+    .line-1 {
+        position: absolute;
+        top: 4782px;
+        left: 0px;
+        width: 1440px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .text--2025-nestlytics {
+        position: absolute;
+        top: 4822px;
+        left: calc(100% - 1440px + 625px);
+        width: 190px;
+        height: 30px;
+        white-space: nowrap;
+        color: #FFFFFF;
+        font-family: "Poppins";
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    /* Default styles for larger screens */
+.desktop-1 {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background: #130D1D;
+}
+
+/* Media query for tablets */
+@media (max-width: 1024px) {
+    .desktop-1 {
+        width: 100%;
+    }
+    .header {
+        height: auto;
+        padding: 10px;
+    }
+    .group-4 {
+        width: 90%;
+        left: 5%;
+    }
+    .group-5 {
+        left: auto;
+        right: 10px;
+    }
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .desktop-1 {
+        padding: 0 10px;
+    }
+    .header {
+        flex-direction: column;
+        align-items: center;
+    }
+    .group-4, .group-5 {
+        width: 100%;
+        left: 0;
+        margin: 10px 0;
+    }
+    .hero-section {
+        height: auto;
+    }
+    .image-1 {
+        background-size: cover;
+        background-position: center;
+    }
+    .card-1, .card-2, .card-3, .card-4, .card-5, .card-6 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+}
